@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I graduated in MATHEMATHICS in 2013.After that I became very interested in IT sector.That's why I choose MCA when I felt like studying even after 10 years.I love to do my own codes in the lab sections.I am hard working and ready to learn new technologies,programming languages and ideas. 
 
 
 ## Portfolio Highlights
